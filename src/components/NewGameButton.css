@@ -1,0 +1,16 @@
+.newgame {
+    width: 15rem;
+    height:4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 5px ;
+    border:none;
+    font-size: 20px;
+    background-color: rgb(169, 111, 224);
+    color: #efefef;
+    cursor: pointer;
+}
